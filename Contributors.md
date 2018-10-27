@@ -7,6 +7,7 @@
 - [Abhinav Gupta  ](https://github.com/ag-23)
 - [Natalie Fleming](https://github.com/nataliefleming)
 - [Dhyey B](https://github.com/dhyeyb04)
+- [Pranav Yadav](https://github.com/pranavyadav8983)
 - [owais](https://github.com/owais34)
 - [Ihoey](https://github.com/ihoey)
 - julio-garcia-fc
